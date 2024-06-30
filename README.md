@@ -16,6 +16,11 @@ Overview of the Project
 
 ProjectName: Weather App
 
+Overview of Project
+
+![task2](https://github.com/dhruv-1908/CODTECH-Task2/assets/110718326/ba9bc909-facf-447f-8130-1add39e40f86)
+
+
 Objective
 
 The Weather App is a user-friendly application that provides real-time weather updates for any location. It fetches data from a reliable weather API and presents it in a clean and intuitive interface. Whether you need to check the current temperature, humidity, or weather conditions, this app has you covered.
